@@ -11,7 +11,7 @@
 ## 正文
 
 <h3 id="construct">代码结构</h3>
-目录：
+
 ```
 | -- config
 　　+ -- config.php　　　//配置文件
@@ -48,6 +48,7 @@
 ```
 
 <h3 id="introduction">使用说明</h3>
+
 - ```config/config.php``` 配置说明：
 ```
 $GLOBALS['app'] = array(
